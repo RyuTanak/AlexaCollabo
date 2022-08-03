@@ -7,3 +7,4 @@ https://guminote.sakura.ne.jp/archives/819
 
 こちらのサイトから  
 https://aws.amazon.com/jp/register-flow/  
+aa
